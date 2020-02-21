@@ -1123,6 +1123,27 @@ section.lazy-placeholder:after {
 .cid-rR2zFpCdjl .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rR8wtZQ3i9 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rR8wtZQ3i9 .image-block {
+  margin: auto;
+}
+.cid-rR8wtZQ3i9 figcaption {
+  position: relative;
+}
+.cid-rR8wtZQ3i9 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rR8wtZQ3i9 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rR2B2LSXDV {
   padding-top: 60px;
   padding-bottom: 60px;
